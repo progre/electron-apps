@@ -1,0 +1,8 @@
+name: rtmpplayer
+description: 'RTMP protocol player implemented by pure JavaScript and Electron.'
+website: 'https://github.com/progre/rtmpplayer'
+category: 'Photo & Video'
+keywords:
+    - livestreaming
+    - streaming
+license: MIT
